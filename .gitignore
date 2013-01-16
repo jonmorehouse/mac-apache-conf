@@ -10,3 +10,9 @@ logs/
 man/
 modules/
 manual/
+conf/highperformance-std.conf
+conf/highperformance.conf
+conf/httpd-std.conf
+conf/httpd.conf.bak
+conf/ssl-std.conf
+conf/ssl.conf
